@@ -1,11 +1,11 @@
 pragma solidity 0.8.20;
 
-import "./deps/auth.sol";
-import './deps/token.sol';
-import './deps/guard.sol';
-import './deps/roles.sol';
-import './deps/value.sol';
-import "./deps/erc20.sol";
+import "../deps/auth.sol";
+import '../deps/token.sol';
+import '../deps/guard.sol';
+import '../deps/roles.sol';
+import '../deps/value.sol';
+import "../deps/erc20.sol";
 
 import './mom.sol';
 

@@ -19,10 +19,10 @@
 
 pragma solidity 0.8.20;
 
-import "./deps/thing.sol";
-import "./deps/token.sol";
-import "./deps/value.sol";
-import "./deps/erc20.sol";
+import "../deps/thing.sol";
+import "../deps/token.sol";
+import "../deps/value.sol";
+import "../deps/erc20.sol";
 
 import "./pit.sol";
 import "./tap.sol";

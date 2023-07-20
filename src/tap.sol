@@ -19,8 +19,8 @@
 
 pragma solidity 0.8.20;
 
-import "./deps/thing.sol";
-import "./deps/token.sol";
+import "../deps/thing.sol";
+import "../deps/token.sol";
 
 import "./tub.sol";
 import "./vox.sol";

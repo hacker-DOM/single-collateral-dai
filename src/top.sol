@@ -21,7 +21,7 @@ pragma solidity 0.8.20;
 
 import "./tub.sol";
 import "./tap.sol";
-import "./deps/erc20.sol";
+import "../deps/erc20.sol";
 
 contract SaiTop is DSThing {
     SaiVox   public  vox;

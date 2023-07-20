@@ -1,6 +1,6 @@
 pragma solidity 0.8.20;
 
-import '../fab.sol';
+import '../src/fab.sol';
 
 import "./test.sol";
 

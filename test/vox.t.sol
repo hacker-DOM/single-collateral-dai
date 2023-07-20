@@ -1,7 +1,7 @@
 pragma solidity 0.8.20;
 
 import "../deps/math.sol";
-import '../vox.sol';
+import '../src/vox.sol';
 
 import "./test.sol";
 

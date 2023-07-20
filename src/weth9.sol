@@ -15,7 +15,7 @@
 
 pragma solidity 0.8.20;
 
-import "./deps/erc20.sol";
+import "../deps/erc20.sol";
 
 contract WETH9 is ERC20 {
     string public name     = "Wrapped Ether";

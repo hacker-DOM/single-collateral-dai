@@ -3,8 +3,8 @@
 pragma solidity 0.8.20;
 
 import '../deps/guard.sol';
-import '../tub.sol';
-import '../tap.sol';
+import '../src/tub.sol';
+import '../src/tap.sol';
 
 import "./test.sol";
 

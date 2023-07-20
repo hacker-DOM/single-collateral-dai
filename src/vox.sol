@@ -19,7 +19,7 @@
 
 pragma solidity 0.8.20;
 
-import "./deps/thing.sol";
+import "../deps/thing.sol";
 
 contract SaiVox is DSThing {
     uint256  _par;

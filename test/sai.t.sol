@@ -8,10 +8,10 @@ import '../deps/token.sol';
 import '../deps/roles.sol';
 import '../deps/value.sol';
 
-import '../weth9.sol';
-import '../mom.sol';
-import '../fab.sol';
-import '../pit.sol';
+import '../src/weth9.sol';
+import '../src/mom.sol';
+import '../src/fab.sol';
+import '../src/pit.sol';
 
 contract TestWarp is DSNote {
     uint256  _era;
